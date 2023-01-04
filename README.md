@@ -19,7 +19,7 @@ But how about VR in browser? There is no such immersion available that VR-glasse
 
 ## Spatial sound
 
-Surprisingly, the most comprehensive aspect of VR is how user sounds are handled. In most VR-systems (including Mozilla Hubs) sound is spatial. This means that sounds behave like in a real world: if someone speaks on my left side, then I hear the sound from my left speaker or headphone. And if someone is screaming far a way from me, I can only hear a faint murmuring.
+Surprisingly, the most comprehensive aspect of communication in VR is how user sounds are handled. In most VR-systems (including Mozilla Hubs) sound is spatial. This means that sounds behave like in a real world: if someone speaks on my left side, then I hear the sound from my left speaker or headphone. And if someone is screaming far a way from me, I can only hear a faint murmuring.
 
 When I first tried Mozilla Hubs with small group of people, I was annoyed because of spatial sound. We all kept running around virtual space and then tried to speak each other without hearing each other after all. Swithing from video meeting to VR was bad experiense. I kept wondering why spatial sound is used. It did not seem to work, it just made our communication difficult. So, why is it used?
 
@@ -49,9 +49,12 @@ External audio can be achieved also naturally if all participants are physcally 
 
 
 #### Audio Zones
+https://hubs.mozilla.com/labs/creating-speaker-stages-and-manipulating-audio-in-hubs/
 
-#### Virtual microphone
-Virtual microphone is a special case of audio zone, where there is a special microphone area that 
+#### Virtual microphone + speakers
+Virtual microphone is a special case of audio zone. Virtual microphone is a special area that that can be used to emit user's speach to virtual speakers. This allows to build large areas where speaker's speach can be heard without attenuation.
+
+TECH TIP: Currently microphone setup can be build only with Blender addon.
 
 RULE: If your audience are meant to communicate by speaking, then you must pay great attention to sound design.
 
