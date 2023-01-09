@@ -1,4 +1,4 @@
-# Unofficial guide for Mozilla Hubs for academic organisations
+# Unofficial guide for Mozilla Hubs for non-profit organisations
 
 This guide is not a tutorial or techinal documentation of Mozilla Hubs. Things change fast in Hubs - and VR in general - and maintaining detailed tutorials would be too big task. Instead, this document tries to give an overview of things one must be aware of when utilisng Hubs for events or public VR spaces.
 
