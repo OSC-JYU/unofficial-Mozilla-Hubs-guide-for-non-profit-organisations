@@ -33,13 +33,16 @@ When I first tried Mozilla Hubs with small group of people, I was annoyed becaus
 Spatial sound is not a technical requirement of virtual reality, it is purposely built feature. One can think of couple of reasons why spatial sounds are used in VR.
 
 1. Mimicking real world
+
 Like I stated earlier, spatial sound works like sounds in real life. And if one wants to mimic reality, then also the behaviour sounds should mimic reality. But virtual reality does not have to mimic reality but instead one can choose what kind of reality one want. So if spatial sound is not what users want, then there is no reason to use it just because we have to mimick real world.
 But there is another reason that justifies the use of spatial sound.
 
 2. Contextualising conversations
-What do you do when you go to the museum with someone? In addition to enjoying services of the museum cafeteria, you propably wonder around, watch things and discuss about them with your company. And this is the purpose of spatial sound in VR. It contextualise conversations. It's like saying: "Here, in this corner of virtual space we discuss about this thing hanging on the wall". 
+
+What do you do when you go to the museum with someone? In addition of enjoying services of the museum cafeteria, you propably wonder around, watch things and discuss about them with your company. And this is the purpose of spatial sound in VR. It contextualise conversations. It's like saying: "Here, in this corner of virtual space we discuss about this thing hanging on the wall". 
 
 3. Natural grouping
+
 This one is close related to previous one. Spatial sound allows natural grouping of people without the need of breakout rooms. People in groups can have discussions without disturbing another groups and changing group is as easy as moving close to the group of avatars. 
 
 
@@ -64,4 +67,7 @@ TECH TIP: Currently microphone setup can be build only with Blender addon.
 
 RULE: If your audience are meant to communicate by speaking, then you must pay great attention to sound design.
 
-If you only want to keep a meeting, then VR might not be the best solution.
+## When not VR?
+
+If you only want to keep a meeting, then VR might not be the best solution. Meeting in the virtual meeting room that mimics real meeting room is just ... well, why would you do that?
+
