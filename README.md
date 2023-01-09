@@ -1,27 +1,43 @@
 # Unofficial guide for Mozilla Hubs for non-profit organisations
 
+WORK IN PROGRESS
+
 This guide is not a tutorial or techinal documentation of Mozilla Hubs. Things change fast in Hubs - and VR in general - and maintaining detailed tutorials would be too big task. Instead, this document tries to give an overview of things one must be aware of when utilisng Hubs for events or public VR spaces.
 
-## Mozilla Hubs
+## Why?
+> Dull slides are dull slides also in virtual reality
+
+You may (and you should) wonder what new virtual reality might bring to your event. Is it really worth of extra effort?
+
+This document tries to give you some starting points so that you could judge yourself.
+
+### Hubs - Browser-based virtual reality
 Mozilla hubs is a browser-based VR platform developed by Mozilla. 
  > take control of your online communities with a fully open source virtual world platform that you can make your own.
  
- The key here is "browser-based" because it means that anyone that can participate to a video conference, can also participate to virtual reality event in Mozilla Hubs. Basically, its "just" a webpage, no tedious registatrations or software installs required.
+The key here is the word "browser-based" because it means that anyone that can participate to a video conference, can also participate to virtual reality event in Mozilla Hubs. Basically, its "just" a webpage, no tedious registatrations or software installs required.
 
-
-## Why?
-You may (and you should) wonder what new virtual reality might bring to your event. Is it really worth of extra effort?
-> Dull slides are dull slides also in virtual reality
-
-### Browser-based virtual reality
 The word "immersion" is often attached to virtual reality. If you have ever tried good VR-glasses, you know what I am talking about.
 But how about VR in browser? There is no such immersion available that VR-glasses can offer. Does it even make sense to speak about virtual reality on browser? 
 
-One way to think about browser-based VR is to think it as a **contextualised space for disccussions**. It is a "space" where you can bring any digital content. By placing items in space, you'll create a potential for fruitful discussions where people form groups naturally because they share the same space. 
+Maybe we should leave the term "virtual reality" to immersive VR systems and start to speak merely about virtual spaces in the context of web-based systems. A flat web page is not a "place", but virtual landscape in that page is. Using three dimensional space for displaying data hugely affects how we remember things ("it was on the yellow room"), how we refer things ("the third object on the right in the main hall") and what order we receive information.
+
+When virtual space is connected to real-time communication, then VR starts to show its best parts. "Come with me". That's the key, we can go together and share "virtual togetherness". 
+
+So, the immersiviness is not what browser-based VR essentially is.
+
+### If not immersion, then what?
+
+One way to think about browser-based VR is to think it as a **contextualised space for disccussions**. It is a "space" where you can bring any digital content. By placing items in space, you'll create a potential for fruitful discussions where people form groups naturally because they share the same environment. 
 
 Of course, if you are in the field of architecture, then its obvious what you can do with virtual spaces: You can bring people in the buildings to explore instead of just showing pictures! For example, check out this magnificent church: https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
 
-But the field is new, and You might be the person that invents something new ways to use browser-based VR!
+But the field is new, and You might be the person that invents some new ways to use browser-based VR!
+
+### What's wrong with VR glasses?
+
+Nothing, they are great! 
+But there are two cons with them. Firstly, not everyone has them. Secondly, NO ONE will participate your three hour webinar while wearing VR glasses three hours. (Maybe some day this is reality)
 
 ## Spatial sound
 
