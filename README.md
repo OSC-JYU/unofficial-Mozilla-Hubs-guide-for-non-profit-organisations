@@ -19,7 +19,7 @@ But how about VR in browser? There is no such immersion available that VR-glasse
 
 One way to think about browser-based VR is to think it as a **contextualised space for disccussions**. It is a "space" where you can bring any digital content. By placing items in space, you'll create a potential for fruitful discussions where people form groups naturally because they share the same space. 
 
-Of cource, if you are in the field of architecture, then its obvious what you can do with virtual spaces! For example, check out this magnificent church: https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
+Of course, if you are in the field of architecture, then its obvious what you can do with virtual spaces: You can bring people in the buildings to explore instead of just showing pictures! For example, check out this magnificent church: https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
 
 But the field is new, and You might be the person that invents something new ways to use browser-based VR!
 
