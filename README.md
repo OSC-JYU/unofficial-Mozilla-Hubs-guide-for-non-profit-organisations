@@ -1,21 +1,27 @@
-# Unofficial event organisator-s guide for Mozilla Hubs
+# Unofficial guide for Mozilla Hubs for academic organisations
 
-This guide is not a tutorial or techinal documentation of Mozilla Hubs. Things change fast in Hubs - and VR in general - and maintaining detailed tutorials wouöd be too big task. Instead, this document tries to give an overview of things one must be aware of when utilisng Hubs for events or public VR spaces.
+This guide is not a tutorial or techinal documentation of Mozilla Hubs. Things change fast in Hubs - and VR in general - and maintaining detailed tutorials would be too big task. Instead, this document tries to give an overview of things one must be aware of when utilisng Hubs for events or public VR spaces.
 
 ## Mozilla Hubs
+Mozilla hubs is a browser-based VR platform developed by Mozilla. 
  > take control of your online communities with a fully open source virtual world platform that you can make your own.
  
-Mozilla hubs is a browser-based VR platform developed by Mozilla. 
+ The key here is "browser-based" because it means that anyone that can participate to a video conference, can also participate to virtual reality event in Mozilla Hubs. Basically, its "just" a webpage, no tedious registatrations or software installs required.
+
 
 ## Why?
-You may (and should) wonder what new virtual reality might bring to your event. Is it really worth of extra effort?
+You may (and you should) wonder what new virtual reality might bring to your event. Is it really worth of extra effort?
 > Dull slides are dull slides also in virtual reality
 
 ### Browser-based virtual reality
-The word "immersion" is often attached to virtual reality. If you have ever tried good VR-glasses, ...
+The word "immersion" is often attached to virtual reality. If you have ever tried good VR-glasses, you know what I am talking about.
 But how about VR in browser? There is no such immersion available that VR-glasses can offer. Does it even make sense to speak about virtual reality on browser? 
 
+One way to think about browser-based VR is to think it as a contextualised spaces for disccussions. It is a "space" where you can bring any digital content. By placing items in space, you'll create a potential for fruitful discussions where people form groups naturally because they share the same space. 
 
+Of cource, if you are in the field of architecture, then its obvious what you can do with virtual spaces! For example, check out this magnificent church: https://hubs.mozilla.com/vjpXfuH/karjasillan-kirkko
+
+But the field is new, and You might be the person that invents something new ways to use browser-based VR!
 
 ## Spatial sound
 
